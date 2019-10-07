@@ -1,3 +1,5 @@
+test git commit -a -m "Testing commands"
+
 
 D:\git-test>git log
 commit 9164b46d2ddac9d3a08c1ba75365b7e61d4d6cb2 (HEAD -> master, secondbranch, bootcamp)
